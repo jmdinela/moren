@@ -281,9 +281,9 @@ background: linear-gradient(to right, #000C40, #F0F2F0); /* W3C, IE 10+/ Edge, F
 .home__img{
   position: absolute;
   text-align: center;
-  right: 14px;
-    bottom: 42px;
-    width: 214px;
+   right: 34px;
+    bottom: 45px;
+    width: 296px;
 }
 
 /*BUTTONS*/
